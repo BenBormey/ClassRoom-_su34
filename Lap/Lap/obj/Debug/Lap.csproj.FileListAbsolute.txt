@@ -1,0 +1,10 @@
+D:\C##\Lap\Lap\bin\Debug\Lap.exe.config
+D:\C##\Lap\Lap\bin\Debug\Lap.exe
+D:\C##\Lap\Lap\bin\Debug\Lap.pdb
+D:\C##\Lap\Lap\obj\Debug\Lap.csproj.AssemblyReference.cache
+D:\C##\Lap\Lap\obj\Debug\Lap.csproj.CoreCompileInputs.cache
+D:\C##\Lap\Lap\obj\Debug\Lap.exe
+D:\C##\Lap\Lap\obj\Debug\Lap.pdb
+D:\C##\Lap\Lap\bin\Debug\ConsoleTables.dll
+D:\C##\Lap\Lap\bin\Debug\ConsoleTables.pdb
+D:\C##\Lap\Lap\obj\Debug\Lap.csproj.CopyComplete
